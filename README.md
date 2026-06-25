@@ -323,6 +323,13 @@ Built RAG-based platform supporting 20-minute to 3-hour videos with 3-6 second q
 
 ---
 
+### **WanderWA Web Analytics Dashboard | Digital Growth Analytics**
+Led content architecture and GA4 reporting on structured analytics datasets, analyzing user engagement with streaming-style event data (Kafka-style concepts). Built operational dashboards that scaled the platform through data-driven content optimization.
+
+**Impact**: 74% referral traffic growth • 50 → 1000+ daily active users • Real-time engagement visibility
+
+---
+
 ### **Seattle Crime Hotspot Analysis | Predictive Analytics**
 Analyzed 170K disturbance incident records using ArcGIS Pro and NoSQL spatial datasets. Built Risk Terrain Model achieving 95% accuracy against published reports, supporting operational planning and patrol coverage decisions.
 
