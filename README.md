@@ -1,10 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:93c5fd&height=280&section=header&text=Mohit%20Shyam%20Amode&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Leader%20%7C%20Strategic%20Insights%20Architect&descAlignY=55&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:93c5fd&height=280&section=header&text=Mohit%20Shyam%20Amode&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst&descAlignY=55&descSize=24)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitamode)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitshyamamode@gmail.com)
-[![Location](https://img.shields.io/badge/Denver%2C%20CO-Based-00C853?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
 
@@ -12,7 +11,7 @@
 
 ## 📊 EXECUTIVE SUMMARY
 
-Data Analytics Leader with **4+ years** of professional experience driving **data-driven decision-making** and **operational excellence** across multiple organizations. Proven track record of delivering **measurable business impact** through advanced analytics, dashboard development, and strategic insights that influence **$120K+ annual budgets** and serve **30+ stakeholders**. Expert in transforming complex datasets into actionable intelligence that drives **30% enrollment increases** and **25% operational efficiency gains**.
+Data Analyst with experience in **dashboard development, SQL, MongoDB, Tableau, Power BI, and structured data analysis**. Skilled in data visualization, query optimization, reporting workflows, JSON data handling, and translating operational requirements into actionable dashboard insights — delivering measurable impact across **$120K+ annual budgets**, **30+ stakeholders**, **30% enrollment growth**, and **25% efficiency gains**.
 
 ### 🎯 LEADERSHIP IMPACT DASHBOARD
 
